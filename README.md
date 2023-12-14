@@ -16,3 +16,6 @@ Objectives
 4. Change Y and N to YES and NO in "Sold As Vacant" field
 5. Remove Duplicates
 6. Delete Unused Columns
+
+
+Data_source : Kaggle
